@@ -158,5 +158,50 @@
     "uz": "Detal nomi",
     "ru": "Наименование детали",
     "en": "The name of detail"
+  },
+  "name": {
+    "uz": "Ism",
+    "ru": "Имя",
+    "en": "Name"
+  },
+  "email": {
+    "uz": "Elektron pochta",
+    "ru": "Эл. адрес",
+    "en": "Email"
+  },
+  "requiredFile": {
+    "uz": "Bu maydonni to'ldirish majburiy",
+    "ru": "Данное поле является обязательным к заполнению",
+    "en": "This is a required field"
+  },
+  "telNumber": {
+    "uz": "Tel raqami",
+    "ru": "Номер телефона",
+    "en": "Phone number"
+  },
+  "videogallery": {
+    "uz": "Videogalereya",
+    "ru": "Видео галерея",
+    "en": "Video gallery"
+  },
+  "menu": {
+    "uz": "MENU",
+    "ru": "МЕНЮ",
+    "en": "MENU"
+  },
+  "send": {
+    "uz": "Yuborish",
+    "ru": "Отправить",
+    "en": "Send"
+  },
+  "youMustAcceptTerms": {
+    "uz": "Shartlarga rozi bo'lishingiz kerak",
+    "ru": "Вы должны согласиться с условиями",
+    "en": "You should agree to the terms"
+  },
+  "avtoBrands": {
+    "uz": "Avtomobil markalari",
+    "ru": "Марки автомобилей",
+    "en": "Car brands"
   }
 }
